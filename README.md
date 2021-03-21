@@ -1,6 +1,6 @@
-// 🎮 Gamer [MHW Minecraft Pokemon]
-// 🛠️ Gunpla Builder 
-// ⌨️ Novice Programmer 
+-###### 🎮 Gamer [MHW Minecraft Pokemon]
+-###### 🛠️ Gunpla Builder 
+-###### ⌨️ Novice Programmer 
 
 <!---
 CraftedCircuitry01/CraftedCircuitry01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
