@@ -1,5 +1,5 @@
 ### 🎮 Gamer [MHW Minecraft Pokemon]
-### ⌨️ Game Development Programmer 
+### ⌨️ Aspiring Game Developer
 ### 🛠️ Gunpla Builder 
 
 <!---
