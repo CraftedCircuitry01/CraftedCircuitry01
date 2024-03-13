@@ -4,7 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lemdollentas-gamedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemdollentas-gamedev" height="30" width="40" /></a>
-<a href="https://www.behance.net/lemueldollentas01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lemueldollentas01" height="30" width="40" /></a>
+https://www.tumblr.com/craftedcircuitry
+<a href="https://www.tumblr.com/craftedcircuitry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" alt="lemueldollentas01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
